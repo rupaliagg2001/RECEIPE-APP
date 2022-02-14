@@ -1,0 +1,42 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Lorem",
+            "createdBy": "Ipsum",
+            "createdAt": "2016-01-01T00:00:00.000Z"
+        },
+        {
+            "id": 2,
+            "name": "Lorem",
+            "createdBy": "Ipsum",
+            "createdAt": "2016-01-01T00:00:00.000Z"
+        },
+        {
+            "id": 3,
+            "name": "Lorem",
+            "createdBy": "Ipsum",
+            "createdAt": "2016-01-01T00:00:00.000Z"
+        },
+        {
+            "id": 4,
+            "name": "Lorem",
+            "createdBy": "Ipsum",
+            "createdAt": "2016-01-01T00:00:00.000Z"
+        },
+        {
+            "id": 5,
+            "name": "Lorem",
+            "createdBy": "Ipsum",
+            "createdAt": "2016-01-01T00:00:00.000Z"
+        }
+    ],
+    "users": [
+        {
+            "id": 100,
+            "name": "Ipsum",
+            "email": "ipsum@gmail.com",
+            "password": "123456"
+        }
+    ]
+}
